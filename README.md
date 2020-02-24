@@ -1,7 +1,7 @@
 # Compose Pokedex
 Jetpack Android Compose UI - Design for Pokemon Pokedex
 
-There are alot of "wheel-reinventing".
+There are alot of "wheel-reinventing". Work in progress
 
 # Screenshots
 [Imgur](https://i.imgur.com/4ljfWT5.mp4)
