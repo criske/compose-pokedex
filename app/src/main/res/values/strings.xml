@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="pokedex">pokedex</string>
+    <string name="moves">moves</string>
+    <string name="abilities">abilities</string>
+    <string name="items">items</string>
+    <string name="locations">locations</string>
+    <string name="type_charts">type charts</string>
+    <string name="home_screen_title">What Pokemon \nare you looking for?</string>
+    <string name="search_hint">Search Pokemon, Move, Ability etc</string>
+</resources>
